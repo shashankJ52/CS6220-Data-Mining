@@ -9,6 +9,7 @@ NUID : 002570569
 | Notebook | Assignment |
 |---|---|
 | `homework_1.ipynb` | Homework 1 |
+| `homework_1_report.pdf` | Homework 1 report |
 
 ## Setup
 
