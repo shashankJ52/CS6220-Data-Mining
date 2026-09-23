@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Data — keep raw files local, out of version control
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
