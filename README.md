@@ -15,7 +15,7 @@ NUID : 002570569
 Requires Python 3.11 or later.
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/shashankJ52/CS6220-Data-Mining.git
 cd CS6220-Data-Mining
 
 python3.11 -m venv .venv
